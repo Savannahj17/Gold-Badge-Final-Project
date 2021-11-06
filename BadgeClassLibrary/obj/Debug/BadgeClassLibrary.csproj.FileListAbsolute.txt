@@ -1,0 +1,6 @@
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\bin\Debug\BadgeClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\bin\Debug\BadgeClassLibrary.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeClassLibrary\obj\Debug\BadgeClassLibrary.pdb

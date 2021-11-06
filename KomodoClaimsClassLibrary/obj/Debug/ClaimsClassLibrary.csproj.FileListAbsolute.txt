@@ -1,0 +1,6 @@
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\bin\Debug\KomodoClaimsClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\bin\Debug\KomodoClaimsClassLibrary.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\obj\Debug\KomodoClaimsClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\obj\Debug\KomodoClaimsClassLibrary.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsClassLibrary\obj\Debug\ClaimsClassLibrary.csproj.AssemblyReference.cache

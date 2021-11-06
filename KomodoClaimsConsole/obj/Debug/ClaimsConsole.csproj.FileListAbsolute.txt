@@ -1,0 +1,6 @@
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\bin\Debug\KomodoClaimsConsole.exe.config
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\bin\Debug\KomodoClaimsConsole.exe
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\bin\Debug\KomodoClaimsConsole.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\obj\Debug\ClaimsConsole.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\obj\Debug\KomodoClaimsConsole.exe
+C:\Users\Savannah\source\repos\KomodoCafe\KomodoClaimsConsole\obj\Debug\KomodoClaimsConsole.pdb

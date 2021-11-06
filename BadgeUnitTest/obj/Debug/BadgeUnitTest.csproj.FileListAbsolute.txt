@@ -1,0 +1,16 @@
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\BadgeUnitTest.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\BadgeUnitTest.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\BadgeClassLibrary.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\BadgeClassLibrary.pdb
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\obj\Debug\BadgeUnitTest.csproj.AssemblyReference.cache
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\obj\Debug\BadgeUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\obj\Debug\BadgeUnitTest.csproj.CopyComplete
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\obj\Debug\BadgeUnitTest.dll
+C:\Users\Savannah\source\repos\KomodoCafe\BadgeUnitTest\obj\Debug\BadgeUnitTest.pdb
