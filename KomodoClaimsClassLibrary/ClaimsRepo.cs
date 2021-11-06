@@ -11,8 +11,8 @@ namespace KomodoClaimsClassLibrary
 
 
         protected readonly Queue<Claims> _claimQueue = new Queue<Claims>();
-
-        public bool AddClaimToDirectory(Claims claim)
+        
+        public bool AddClaimToQueue(Claims claim)
         {
             int startingCount = _claimQueue.Count;
             _claimQueue.Enqueue(claim);

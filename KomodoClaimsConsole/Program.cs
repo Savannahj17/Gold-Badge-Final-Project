@@ -10,6 +10,9 @@ namespace KomodoClaimsConsole
     {
         static void Main(string[] args)
         {
+            ProgramUI ui = new ProgramUI();
+            ui.Run();
+            Console.ReadKey();
         }
     }
 }

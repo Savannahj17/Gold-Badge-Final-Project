@@ -105,13 +105,24 @@ namespace ConsoleApp1
         }
         private void ShowAllItemsOnMenu()
         {
-            _menuRepo.GetAllItems();
+            List<MenuItem> listOfItems = _menuRepo.GetAllItems();
+            foreach(MenuItem item in listOfItems)
+            {
+                _menuRepo.GetItemByName(item.MealName);
+                Console.WriteLine("----------------------------------------------");
+            }
+            Console.WriteLine("Press any key to continue");
+            Console.ReadKey();
 
         }
             
         private void SeedContentList()
         {
-                 
+            MenuItem itemOne = new MenuItem(1234, "Mac and Cheese", "Cavatappi noodles with gouda, cheddar, and mozzarella", 10);
+            MenuItem itemTwo = new MenuItem(3456, "Chicken Tenders","Chicken tenderloins breaded with flour and breadcrumbs and deep fried",10);
+
+            _menuRepo.AddItemToMenu(itemOne);
+            _menuRepo.AddItemToMenu(itemTwo);
         }
         
     }
