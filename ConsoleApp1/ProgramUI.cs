@@ -85,16 +85,33 @@ namespace ConsoleApp1
         }
         private void DeleteItemFromMenu()
         {
-
+            MenuItem item = new MenuItem();
+            Console.WriteLine("Please enter the name of the item that you would like to delete");
+            Console.ReadLine();
+            _menuRepo.DeleteExistingItem(item);
+            Console.WriteLine("Would you like to delete another item from the menu?");
+            string answer = Console.ReadLine().ToLower();
+            if (answer == "yes")
+            {
+                DeleteItemFromMenu();
+            }
+            else
+            {
+                Console.WriteLine("Press enter to return to the main menu");
+                Console.ReadLine();
+                Console.Clear();
+                RunMenu();
+            }
         }
         private void ShowAllItemsOnMenu()
         {
+            _menuRepo.GetAllItems();
 
         }
             
         private void SeedContentList()
         {
-                
+                 
         }
         
     }

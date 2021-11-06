@@ -37,6 +37,7 @@ namespace ClassLibrary1
       
         public bool DeleteExistingItem(MenuItem existingItem)
         {
+
             bool deleteResult = _menu.Remove(existingItem);
             return deleteResult;
         }
