@@ -38,13 +38,13 @@ namespace BadgeConsole
                         CreateNewBadge();
                         break;
                     case "2":
-                        RemoveAllDoorsFromBadge();
+                        UpdateDoorsOnBadge();
                         break;
                     case "3":
-                        UpdateBadge();
+                        RemoveAllDoorsFromBadge();
                         break;
                     case "4":
-                        ShowListOfAllBadges();
+                        ShowListOfAllBadgesAndAccess();
                         break;
                     case "5":
                         continueToRun = false;
@@ -113,7 +113,10 @@ namespace BadgeConsole
             Console.WriteLine("Please enter badge ID you wish to remove all doors from.");
             foreach (KeyValuePair<int, List<string>> kvp in _badgeDictionary)
             {
-                //display badge id and badge name
+                if (badgeId == kvp.Key)
+                {
+                    return kvp.Value;
+                }
 
             }
             int badgeId = int.Parse(Console.ReadLine());

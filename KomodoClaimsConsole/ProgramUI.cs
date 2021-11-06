@@ -103,9 +103,6 @@ namespace KomodoClaimsConsole
 
             _claimsRepo.AddClaimToQueue(claimOne);
             _claimsRepo.AddClaimToQueue(claimTwo);
-
-
-
         }
     }
 }
